@@ -11,7 +11,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
  - clone the project from github **[movieapp.git](https://github.com/edcheyjr/movieapp.git)**
  - create an .env file and config it as so:
     - copy contents from .env.example
-    - apply for api key from **[omdapi](http://www.omdbapi.com/apikey.aspx))** and paste on .env file
+    - apply for api key from **[omdapi](http://www.omdbapi.com/apikey.aspx)** and paste on .env file
  -  write on the terminal inside the project *npm install*
  -  run *npm start* to start the serve
 
@@ -33,7 +33,7 @@ Type the name of the movie on the search bar
 
 ## Netlify.com
 
-Get online version here **[allmovieyouwant](https://docs.npmjs.com/cli/v7/commands/npm-install)**
+`Get online version here` **[allmovie.netlify](https://allmovie.netlify.app/)**
 
 
 

@@ -1,10 +1,10 @@
 
 import React, { useState, useEffect } from 'react';
 // console.log(process.env.MOVIEAPP_API_KEY)
-// const API_ENDPOINT =`&apikey=${process.env.MOVIEAPP_API_KEY}`;
-// const URL = `${process.env.URL}`;
-const API_ENDPOINT="&apikey=489b5133"
-const URL = "https://www.omdbapi.com/"
+const API_ENDPOINT =`&apikey=${process.env.MOVIEAPP_API_KEY}`;
+const URL = `${process.env.URL}`;
+// const API_ENDPOINT="&apikey=489b5133"
+// const URL = "https://www.omdbapi.com/"
 const useFetch = (urlParams) => {
   const [isLoading, setIsLoading] = useState(true);
   const [data, setData] = useState(null);
