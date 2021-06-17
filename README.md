@@ -29,10 +29,11 @@ Type the name of the movie on the search bar
 
 ##### Add a 404 page
 
+<img src="/public/img/404.png">
 
 ## Netlify.com
 
-Get online version here **[allmovieyouwanted](https://docs.npmjs.com/cli/v7/commands/npm-install)**
+Get online version here **[allmovieyouwant](https://docs.npmjs.com/cli/v7/commands/npm-install)**
 
 
 
