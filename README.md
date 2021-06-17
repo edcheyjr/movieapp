@@ -8,7 +8,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # How to run 
 
 - ensure you have npm installed **[npm](https://docs.npmjs.com/cli/v7/commands/npm-install)**
- - clone the project from github **[https://github.com/edcheyjr/movieapp.git](https://github.com/edcheyjr/movieapp.git)**
+ - clone the project from github **[movieapp.git](https://github.com/edcheyjr/movieapp.git)**
+ - create an .env file and config it as so:
+    - copy contents from .env.example
+    - apply for api key from **[omdapi](http://www.omdbapi.com/apikey.aspx))** and paste on .env file
  -  write on the terminal inside the project *npm install*
  -  run *npm start* to start the serve
 
@@ -16,24 +19,25 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Type the name of the movie on the search bar
 
-Search for movie
-    <img src="/public/img/search.png">
+##### Search for movie
 
-View the Movie
-    <img src="/public/img/view_movie.png">
+<img src="/public/img/search.png">
+
+##### View the Movie
+
+<img src="/public/img/view_movie.png">
+
+##### Add a 404 page
+
 
 ## Netlify.com
 
-Get online version here
+Get online version here **[allmovieyouwanted](https://docs.npmjs.com/cli/v7/commands/npm-install)**
 
 
 
 
-
-
-
-
-## Available Scripts
+## Available Scripts 
 
 In the project directory, you can run:
 

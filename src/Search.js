@@ -16,8 +16,9 @@ const Search = () => {
             onChange={(e)=> setQuery(e.target.value)}
             placeholder="search for a movie..."
             />
+            {error.show && <div className="text-red-400 text-xs font-semibold mt-3">{error.msg}</div>}
         </form>
-        {error.show && <div className="error">{error.msg}</div>}
+        
         </>
     )
 }

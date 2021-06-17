@@ -4,7 +4,6 @@ import App from "./App";
 import {AppProvider} from "./context";
 
 // style
-import "./styles/index.css";
 import "./styles/app.css";
 
 
