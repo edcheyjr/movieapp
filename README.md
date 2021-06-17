@@ -7,17 +7,26 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
  - View Movie post
 # How to run 
 
-- ensure you have npm installed
- - clone the project from github 
+- ensure you have npm installed **[npm](https://docs.npmjs.com/cli/v7/commands/npm-install)**
+ - clone the project from github **[https://github.com/edcheyjr/movieapp.git](https://github.com/edcheyjr/movieapp.git)**
+ -  write on the terminal inside the project *npm install*
+ -  run *npm start* to start the serve
 
 # How it works
 
+Type the name of the movie on the search bar
 
 Search for movie
     <img src="/public/img/search.png">
 
 View the Movie
     <img src="/public/img/view_movie.png">
+
+## Netlify.com
+
+Get online version here
+
+
 
 
 
