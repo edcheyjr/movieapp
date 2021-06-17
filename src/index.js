@@ -4,15 +4,18 @@ import App from "./App";
 import {AppProvider} from "./context";
 
 // style
-import "./index.css";
+import "./styles/index.css";
+import "./styles/app.css";
 
 
-// import {BrowserRouter as Router} from 'react-router-dom';
+import {BrowserRouter as Router} from 'react-router-dom';
 
 Reactdom.render(
     <React.StrictMode>
     <AppProvider>
-        <App/>   
+      <Router>       
+         <App/>  
+      </Router>
     </AppProvider>
    
   </React.StrictMode>
