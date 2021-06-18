@@ -9,7 +9,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 - ensure you have npm installed **[npm](https://docs.npmjs.com/cli/v7/commands/npm-install)**
  - clone the project from github **[movieapp.git](https://github.com/edcheyjr/movieapp.git)**
- - create an ```.env``` however for local and development create ```.env.development.local ```for testing locally create a ```.env.test.local``` file and config it as so:
+ - create an ```.env``` however for local and development create ```.env.development.local ```,for testing locally create a ```.env.test.local``` files and config it as so:
     - copy contents from ```.env.example``` to this news files
     - apply for api key from **[omdapi](http://www.omdbapi.com/apikey.aspx)** and paste on .```env```,```.env.development.local``` and ```.env.test.local``` files.
  -  write on the terminal inside the project ```npm install```.
