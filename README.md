@@ -33,11 +33,11 @@ Type the name of the movie on the search bar
 
 ## Netlify.com
 
-`Get online version here` **[allmovie.netlify](https://allmovie.netlify.app/)**
+Get online version here **[allmovie.netlify](https://allmovie.netlify.app/)**
 
 ## Assumption
 
- `person using this is familiar with react and create-react-app`
+ person using this is familiar with react and create-react-app
 
 
 ## Available Scripts 
